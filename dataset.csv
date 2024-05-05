@@ -1,0 +1,53 @@
+ID_Passager,Poids_Bagages,Taille_Bagages,Origine,Destination,Contenu_Declare,Antecedents_Juridiques,Frequence_Voyage,Duree_Sejour,Destination_Sejour,Validation
+1,23,Standard,DKR,CDG,Vetements,Aucun,Mensuel,7,Paris,1
+2,30,Grand,CDG,DKR,Electronique,Mineur,Annuel,14,Dakar,0
+3,15,Petit,JFK,DKR,Livres,Aucun,Occasionnel,3,Dakar,1
+4,18,Moyen,DKR,LHR,Cadeaux,Aucun,Bimensuel,5,Londres,1
+5,22,Standard,DXB,DKR,Artisanat,Majeur,Semestriel,10,Dakar,0
+6,25,Grand,NRT,DKR,Electronique,Aucun,Trimestriel,12,Tokyo,1
+7,20,Moyen,DKR,JFK,Documents,Grave,Quotidien,1,New York,0
+8,28,Grand,GRU,DKR,Nourriture,Aucun,Hebdomadaire,4,Dakar,1
+9,16,Petit,DKR,PEK,Textiles,Mineur,Mensuel,7,Pekin,0
+10,19,Moyen,CDG,DKR,Chocolat,Aucun,Annuel,14,Paris,1
+11,24,Standard,DKR,AMS,Fromage,Aucun,Mensuel,7,Amsterdam,1
+12,26,Grand,AMS,DKR,Equipement,Mineur,Annuel,14,Dakar,0
+13,17,Petit,LAX,DKR,Cosmetiques,Aucun,Occasionnel,3,Dakar,1
+14,21,Moyen,DKR,JNB,Souvenirs,Aucun,Bimensuel,5,Johannesburg,1
+15,23,Standard,CAI,DKR,Papyrus,Majeur,Semestriel,10,Dakar,0
+16,27,Grand,ICN,DKR,HighTech,Aucun,Trimestriel,12,Seoul,1
+17,19,Moyen,DKR,DXB,Epices,Grave,Quotidien,1,Dubai,0
+18,29,Grand,GIG,DKR,Cafe,Aucun,Hebdomadaire,4,Dakar,1
+19,18,Petit,DKR,HKG,Textiles,Mineur,Mensuel,7,Hong Kong,0
+20,20,Moyen,CDG,DKR,Vin,Aucun,Annuel,14,Paris,1
+51,21,Standard,LOS,LHR,Accessoires,Aucun,Annuel,10,Londres,1
+52,17,Petit,ACC,CDG,Chaussures,Mineur,Semestriel,14,Paris,0
+53,24,Grand,CAI,FRA,Pharmaceutiques,Aucun,Mensuel,7,Frankfurt,1
+54,19,Moyen,ALG,IST,Tapis,Aucun,Occasionnel,5,Istanbul,1
+55,26,Standard,JNB,MAD,Artisanat,Majeur,Trimestriel,12,Madrid,0
+56,22,Petit,CPT,FCO,Vins,Aucun,Bimensuel,3,Rome,1
+57,28,Grand,KRT,AMS,Souvenirs,Grave,Quotidien,1,Amsterdam,0
+58,16,Moyen,DKR,BCN,Textiles,Aucun,Hebdomadaire,4,Barcelone,1
+59,23,Standard,ABJ,VIE,Chocolat,Mineur,Mensuel,7,Vienne,0
+60,25,Grand,CMN,LIS,Poterie,Aucun,Annuel,14,Lisbonne,1
+61,20,Petit,ADD,MUC,Cafe,Aucun,Mensuel,7,Munich,1
+62,18,Moyen,LOS,ZRH,Equipement,Mineur,Annuel,14,Zurich,0
+63,27,Standard,CAI,ARN,Papyrus,Aucun,Occasionnel,3,Stockholm,1
+64,29,Grand,JNB,CPH,Art,Aucun,Bimensuel,5,Copenhague,1
+65,24,Moyen,CPT,OSL,Boissons,Majeur,Semestriel,10,Oslo,0
+66,21,Petit,KRT,WAW,Epices,Aucun,Trimestriel,12,Varsovie,1
+67,26,Grand,ABJ,HEL,Textiles,Grave,Quotidien,1,Helsinki,0
+68,22,Moyen,CMN,DUB,Artisanat,Aucun,Hebdomadaire,4,Dubai,1
+69,28,Standard,ADD,DOH,Cafe,Mineur,Mensuel,7,Doha,0
+70,17,Petit,LOS,BKK,Accessoires,Aucun,Annuel,14,Bangkok,1
+71,30,Grand,ACC,HKG,Vetements,Aucun,Mensuel,7,Hong Kong,1
+72,15,Moyen,CAI,SIN,Pharmaceutiques,Mineur,Annuel,14,Singapore,0
+73,18,Standard,ALG,KUL,Tapis,Aucun,Occasionnel,3,Kuala Lumpur,1
+74,25,Grand,JNB,ICN,Artisanat,Aucun,Bimensuel,5,Seoul,1
+75,19,Petit,CPT,NRT,Vins,Majeur,Trimestriel,12,Tokyo,0
+76,27,Moyen,KRT,PEK,Souvenirs,Grave,Quotidien,1,Pekin,1
+77,20,Standard,DKR,SHA,Textiles,Aucun,Hebdomadaire,4,Shanghai,0
+78,22,Grand,ABJ,BOM,Poterie,Mineur,Mensuel,7,Mumbai,1
+79,16,Petit,CMN,DEL,Artisanat,Aucun,Annuel,14,Delhi,0
+80,24,Moyen,ADD,SYD,Cafe,Aucun,Mensuel,7,Sydney,1
+
+
